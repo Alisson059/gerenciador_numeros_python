@@ -33,8 +33,7 @@ Soma total dos números: 5
 🔢 Classificação automática em pares e ímpares.  
 📊 Estatísticas finais: maior, menor e soma total.
 
-🛠️ Tecnologias utilizadas
-
+🛠️ Tecnologias utilizadas  
 Python 3
 
 🚀 Como executar
